@@ -3,8 +3,9 @@
 // @name:en         Faloo Picture Remover
 // @description     用于删除飞卢小说网页端阅读页面的图片
 // @description:en  Used to delete images from the webpage reading page of faloo novel
-// @version         0.0.1
+// @version         0.0.2
 // @author          Confringo
+// @namespace       https://github.com/gonghengjie/faloo-picture-remover/
 // @match           *://b.faloo.com/*_*.html
 // @match           *://wap.faloo.com/*_*.html
 // @license         AGPL-3.0-or-later
